@@ -12,7 +12,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Mar's projects
-    subtitle: Featured blog posts section example
+    subtitle: Little artist Mar and her projects by age
     actions:
       - type: Button
         label: View all
