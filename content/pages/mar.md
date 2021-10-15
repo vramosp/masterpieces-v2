@@ -11,7 +11,7 @@ sections:
     contentAlignVert: middle
     elementId: ''
     variant: variant-a
-    title: Latest news
+    title: Mar's projects
     subtitle: Featured blog posts section example
     actions:
       - type: Button
