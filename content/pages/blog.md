@@ -28,9 +28,5 @@ sections:
         label: Learn More
         url: /
         style: secondary
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Image alt text
 layout: PageLayout
 ---
